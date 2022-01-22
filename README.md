@@ -29,6 +29,8 @@ We are using Go-Rest APIs as the Application Under Test.
 
 * URL : https://gorest.co.in/
 ## The Project Directory Structure
+### Screenplay scheme
+![Logo](https://blog.caplin.com/wp-content/uploads/2016/12/screenPlayWorkFlow.png)
 
 The project follows the standard directory structure used in most Serenity projects:
 
@@ -56,8 +58,7 @@ Still Missing:
 + properties      TODO             AUT properties files 
 
 
-
-![Img](https://blog.caplin.com/wp-content/uploads/2016/12/screenPlayWorkFlow.png)### Installation and Test Execution
+### Installation and Test Execution
 Following instructions will help you running the project.
 
 First, clone this project locally on your machine from the "main" branch.
