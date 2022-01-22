@@ -12,7 +12,7 @@ import static org.hamcrest.CoreMatchers.equalTo;
 
 public class CreateUserSerenitySteps {
     Actor actor;
-    private static final String restApiUrl = "http://localhost:5000/api/";
+    private static final String restApiUrl = "https://reqres.in/api/";
 
     @Step("connect API")
     public void connectAPI(){
